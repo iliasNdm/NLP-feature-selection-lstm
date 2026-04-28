@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project investigates whether feature selection methods can improve the performance of LSTM models for text classification while reducing the vocabulary size. Three approaches are compared:
 
@@ -32,7 +32,7 @@ The methods are evaluated on two datasets in different languages and domains to 
 
 ---
 
-## 🧠 Methods
+##  Methods
 
 ### 1. Baseline LSTM
 Standard architecture with full TF-IDF vocabulary:
@@ -55,7 +55,7 @@ Two-stage hybrid approach:
 
 ---
 
-## 📈 Results
+##  Results
 
 ### DS1 — Medical Text (English)
 
@@ -83,7 +83,7 @@ Two-stage hybrid approach:
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 1. **Baseline resists feature selection** — On both datasets, no FS method outperforms the baseline
 2. **MI is highly effective for compression** — On DS1, MI k=2000 matches baseline with 80% fewer features
@@ -93,7 +93,7 @@ Two-stage hybrid approach:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.10+**
 - **TensorFlow / Keras** — LSTM and BiLSTM models
@@ -126,7 +126,7 @@ Two-stage hybrid approach:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 # Clone the repository
