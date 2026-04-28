@@ -20,7 +20,7 @@ The methods are evaluated on two datasets in different languages and domains to 
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 | Dataset | Language | Domain | Size | Classes | Avg. Length |
 |---------|----------|--------|------|---------|-------------|
@@ -105,7 +105,9 @@ Two-stage hybrid approach:
 
 ---
 
-##  Project Structure
+## Project Structure
+
+```text
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -123,6 +125,7 @@ Two-stage hybrid approach:
 │   └── rapport.pdf
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
