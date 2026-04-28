@@ -1,0 +1,2 @@
+methode,dataset,accuracy,f1_macro,precision,recall,n_features,n_epochs
+baseline,DS1_medical,0.6122,0.5989,0.5914,0.6251,10000,5

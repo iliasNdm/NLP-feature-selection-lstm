@@ -1,0 +1,5 @@
+methode,dataset,accuracy,f1_macro,n_features
+baseline,DS1_medical,0.6122,0.5989,10000
+MI_k500,DS1_medical,0.5716,0.5217,500
+MI_k1000,DS1_medical,0.6034,0.59,1000
+MI_k2000,DS1_medical,0.6122,0.5979,2000

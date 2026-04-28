@@ -1,0 +1,2 @@
+methode,features,accuracy,f1_macro,precision,recall,temps_s
+Baseline,10000,0.6337,0.624,0.6449,0.6314,19.9
